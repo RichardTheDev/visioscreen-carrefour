@@ -1,1 +1,7 @@
+altair
+numpy
+pandas
+pydeck
 streamlit
+PyPDF2
+pdf2image
