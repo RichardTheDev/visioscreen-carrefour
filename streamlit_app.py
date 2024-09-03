@@ -99,7 +99,7 @@ def create_download_zip(images, prefix="pages"):
 
 
 def main():
-    st.title("Visioscreen - Carwwrefour")
+    st.title("Visioscreen - Carrefour")
     st.subheader("By Visioscreen")
 
     uploaded_pdfs = st.file_uploader("Upload one or more PDF files", type="pdf", accept_multiple_files=True)
